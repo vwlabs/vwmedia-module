@@ -1,5 +1,5 @@
 {
-  "name": "idavoll/media-module",
+  "name": "vwlabs/vwmedia-module",
   "type": "asgard-module",
   "description": "Media module for AsgardCMS. Handles the media library.",
   "keywords": [
